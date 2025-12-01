@@ -18,7 +18,7 @@
   }
 }
 .info__2debe::after {
-  content: " Aldric Ashthorn" " " "7.0.1";
+  content: " Aldric Ashthorn";
   color: var(--text-muted);
   font-size: 12px;
   line-height: 1.3333333333;
@@ -35,7 +35,7 @@
   order: 2;
   filter: drop-shadow(0 0 5px var(--hsl-main-color));
 }
-.visual-refresh:not(.platform-osx) .leading_c38106::after {
+/* .visual-refresh:not(.platform-osx) .leading_c38106::after {
   content: "7.0.1";
   position: static;
   margin-top: -5px;
@@ -45,7 +45,7 @@
   font-weight: 600;
   color: var(--text-muted);
   order: 3;
-}
+} */
 .button__201d5 {
   border-radius: 4px;
 }
