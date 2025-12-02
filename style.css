@@ -2919,11 +2919,11 @@ code {
 .checkmark__36dee {
   color: var(--hsl-main-color);
 }
-/* .container__06283 {
-  -webkit-mask-image: url(https://clearvision.github.io/icons/pill.svg);
-  mask-image: url(https://clearvision.github.io/icons/pill.svg);
+.container__06283 {
+  -webkit-mask-image: url(https://absolutezero557.github.io/Theme/made-myself-a-custom-discord-icon-v0-t9j9padwfdqb1.png);
+  mask-image: url(https://absolutezero557.github.io/Theme/made-myself-a-custom-discord-icon-v0-t9j9padwfdqb1.png);
   background: var(--hsl-main-color) !important;
-} */
+}
 :is(.theme-light, .theme-dark) .progress__06283 {
   background: var(--hsl-background-shading);
 }
